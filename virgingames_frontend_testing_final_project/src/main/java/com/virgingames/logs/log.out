@@ -1,0 +1,4 @@
+2024-02-02 22:02:746 INFO  HomePage :24 - Scroll down to footer until get text : [[ChromeDriver: chrome on windows (5fffcba14f60e217a64446a3798d555e)] -> css selector: a[title='Privacy Policy']]
+2024-02-02 22:02:977 INFO  HomePage :29 - Getting Privacy policy text : [[ChromeDriver: chrome on windows (5fffcba14f60e217a64446a3798d555e)] -> css selector: a[title='Privacy Policy']]
+2024-02-02 22:02:810 INFO  HomePage :35 - Clicking on privacy Policy button : [[ChromeDriver: chrome on windows (5fffcba14f60e217a64446a3798d555e)] -> css selector: a[title='Privacy Policy']]
+2024-02-02 22:02:317 INFO  HomePage :46 - Getting error text : [[ChromeDriver: chrome on windows (5fffcba14f60e217a64446a3798d555e)] -> xpath: //h3[normalize-space()='PRIVACY POLICY']]
